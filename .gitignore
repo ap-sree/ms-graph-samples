@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Build directories
+target/
+build/
+out/
+
+# IDE / tooling
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# PowerShell generated files
+*.log
+*.tmp
+*.bak
+*.transcript
+
+# Sample script output files
+secert-and-cert-automation/ExpiryReport*.csv
